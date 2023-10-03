@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on ** ReactJS, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on ** NestJS, Prisma, MongoDB, NodeJS, NextJS, ReactJS, React Native**
 
 - 📫 Feel free to reach me out **lutfuogretici@gmail.com**
 
