@@ -13,7 +13,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on ** NestJS, Prisma, MongoDB, NodeJS, NextJS, ReactJS, React Native**
+- 🔭 I’m currently working on ** NestJS, RabbitMQ, AWS, MongoDB, NodeJS, NextJS, ReactJS, React Native**
 
 - 📫 Feel free to reach me out **lutfuogretici@gmail.com**
 
