@@ -37,11 +37,6 @@
     <img src="https://skillicons.dev/icons?i=nest,prisma,express,mongodb,nodejs,postman,aws,docker,git,github,gitlab,next,react,angular,ts,js,html,css,bootstrap,tailwind,figma,c,cs,cpp,java,linux,py,vscode&perline=14" />
   </a>
 </p>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 
